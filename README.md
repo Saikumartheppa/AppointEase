@@ -19,7 +19,6 @@ The following dependencies are required to run the project:
 ---
 
 
-
 >## Database Configuration
 * To connect to a MySQL database, update the application.properties file with the appropriate database URL, username, and password. The following properties need to be updated:
 ```
@@ -34,7 +33,8 @@ spring.jpa.properties.hibernate.show_sql=true
 spring.jpa.properties.hibernate.use_sql_comments=true
 spring.jpa.properties.hibernate.format_sql=true
 
-```
+``` 
+---
 >## Language Used
 * Java
 
@@ -92,9 +92,10 @@ We have used Persistent database to implement CRUD Operations.
 }
 
 ```
+---
 
 >## Project Summary
- AppointEase is a web-based application that serves as a bridge between doctors and patients, providing a platform for seamless appointment scheduling and management. The project offers a RESTful API for creating and deleting appointments, streamlining the process and enhancing patient-doctor communication.
+* AppointEase is a web-based application that serves as a bridge between doctors and patients, providing a platform for seamless appointment scheduling and management. The project offers a RESTful API for creating and deleting appointments, streamlining the process and enhancing patient-doctor communications
 ---
 >## Author
 
@@ -115,3 +116,4 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 Give a ⭐️ if this project helped you!
     
 ---
+
