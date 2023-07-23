@@ -1,6 +1,6 @@
-<h1 align = "center"> Doctor Patient Api </h1>
+<h1 align = "center"> AppointEase </h1>
 
-* This is a backend application for a Doctor-Patient management system. It provides APIs to add doctors, add patients with their symptoms, and suggest doctors based on patient's symptoms and location.
+ AppointEase aims to streamline the appointment scheduling process, enhance doctor-patient communication, and improve overall healthcare accessibility. With its user-friendly interface and robust features, the platform promises to become a valuable tool for doctors and patients alike.
 
 ## Framework used
 
@@ -94,10 +94,7 @@ We have used Persistent database to implement CRUD Operations.
 ```
 
 >## Project Summary
-The Doctor-Patient Management System is a backend application designed to facilitate the management of doctors and patients in a healthcare setting.
-The system provides various APIs to add doctors,
-add patients with their symptoms, and suggest doctors based on patient symptoms and location.
-
+ AppointEase is a web-based application that serves as a bridge between doctors and patients, providing a platform for seamless appointment scheduling and management. The project offers a RESTful API for creating and deleting appointments, streamlining the process and enhancing patient-doctor communication.
 ---
 >## Author
 
